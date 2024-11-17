@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Salut",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -25,22 +25,11 @@
     "name": "Dashboard",
     "url": "https://dashboard.mintlify.com"
   },
-  "tabs": [
-    {
-      "name": "API",
-      "url": "api-reference"
-    }
-  ],
-  "anchors": [
-    {
-      "name": "Documentação do Manual",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    }
-  ],
+  "tabs": [],
+  "anchors": [],
   "navigation": [
     {
-      "group": "Acesso ao Sistema",
+      "group": "Acesso",
       "pages": [
         "acesso/primeiro-acesso",
         "acesso/esqueci-minha-senha",
@@ -124,6 +113,6 @@
     }
   ],
   "footerSocials": {
-    "github": "https://github.com/salut"
+    "github": "https://github.com/salut-clinic"
   }
 }
