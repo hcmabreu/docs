@@ -17,8 +17,8 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Salut",
+      "url": "https://salut.clinic"
     }
   ],
   "topbarCtaButton": {
@@ -27,30 +27,70 @@
   },
   "tabs": [
     {
-      "name": "API Reference",
+      "name": "API",
       "url": "api-reference"
     }
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Documentação do Manual",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
-    },
-    {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
     }
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Acesso ao Sistema",
+      "pages": [
+        "acesso/primeiro-acesso",
+        "acesso/esqueci-minha-senha",
+        "acesso/meu-perfil",
+        "acesso/certificado-digital",
+        "acesso/termos"
+      ]
+    },
+    {
+      "group": "Recepção",
+      "pages": [
+        "acesso/primeiro-acesso",
+        "acesso/esqueci-minha-senha",
+        "acesso/meu-perfil",
+        "acesso/certificado-digital",
+        "acesso/termos"
+      ]
+    },
+    {
+      "group": "Profissional de Saúde",
+      "pages": [
+        "acesso/primeiro-acesso",
+        "acesso/esqueci-minha-senha",
+        "acesso/meu-perfil",
+        "acesso/certificado-digital",
+        "acesso/termos"
+      ]
+    },
+    {
+      "group": "Convênios",
+      "pages": [
+        "acesso/primeiro-acesso",
+        "acesso/esqueci-minha-senha",
+        "acesso/meu-perfil",
+        "acesso/certificado-digital",
+        "acesso/termos"
+      ]
+    },
+    {
+      "group": "Administração",
+      "pages": [
+        "acesso/primeiro-acesso",
+        "acesso/esqueci-minha-senha",
+        "acesso/meu-perfil",
+        "acesso/certificado-digital",
+        "acesso/termos"
+      ]
+    },
+    {
+      "group": "Start",
       "pages": [
         "introduction",
         "quickstart",
@@ -84,8 +124,6 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://linkedin.com/company/mintlify"
+    "github": "https://github.com/salut"
   }
 }
