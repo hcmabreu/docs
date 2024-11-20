@@ -32,83 +32,23 @@
       "group": "Básico",
       "pages": [
         "acesso/primeiro-acesso",
-        "acesso/esqueci-minha-senha",
-        "acesso/meu-perfil",
-        "acesso/certificado-digital",
-        "acesso/termos"
+        "acesso/esqueci-minha-senha"
       ]
     },
     {
       "group": "Recepção",
       "pages": [
-        "acesso/primeiro-acesso",
-        "acesso/esqueci-minha-senha",
-        "acesso/meu-perfil",
-        "acesso/certificado-digital",
-        "acesso/termos"
+        "recepcao/dashboard",
+        "recepcao/agendar",
+        "recepcao/admissao"
       ]
     },
     {
       "group": "Profissional de Saúde",
       "pages": [
-        "acesso/primeiro-acesso",
-        "acesso/esqueci-minha-senha",
-        "acesso/meu-perfil",
-        "acesso/certificado-digital",
-        "acesso/termos"
-      ]
-    },
-    {
-      "group": "Convênios",
-      "pages": [
-        "acesso/primeiro-acesso",
-        "acesso/esqueci-minha-senha",
-        "acesso/meu-perfil",
-        "acesso/certificado-digital",
-        "acesso/termos"
-      ]
-    },
-    {
-      "group": "Administração",
-      "pages": [
-        "acesso/primeiro-acesso",
-        "acesso/esqueci-minha-senha",
-        "acesso/meu-perfil",
-        "acesso/certificado-digital",
-        "acesso/termos"
-      ]
-    },
-    {
-      "group": "Start",
-      "pages": [
-        "introduction",
-        "quickstart",
-        "development"
-      ]
-    },
-    {
-      "group": "Essentials",
-      "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
-      ]
-    },
-    {
-      "group": "API Documentation",
-      "pages": [
-        "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "saude/dashboard",
+        "saude/prontuario",
+        "saude/assinatura-digital"
       ]
     }
   ],
