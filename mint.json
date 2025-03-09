@@ -18,7 +18,7 @@
   "topbarLinks": [
     {
       "name": "Salut",
-      "url": "https://salut.clinic"
+      "url": "https://adomni.salut.clinic"
     }
   ],
   "topbarCtaButton": {
@@ -31,6 +31,7 @@
     {
       "group": "Básico",
       "pages": [
+        "acesso/introduction",
         "acesso/primeiro-acesso",
         "acesso/esqueci-minha-senha"
       ]
