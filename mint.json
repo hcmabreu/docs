@@ -36,14 +36,6 @@
       ]
     },
     {
-      "group": "Recepção",
-      "pages": [
-        "recepcao/dashboard",
-        "recepcao/agendar",
-        "recepcao/admissao"
-      ]
-    },
-    {
       "group": "Profissional de Saúde",
       "pages": [
         "saude/dashboard",
