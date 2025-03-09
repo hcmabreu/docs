@@ -1,5 +1,54 @@
 ---
-title: 'New file'
-description: 'Description of your new file.'
+title: "Prontuário"
+description: "Princípios de Funcionamento do Prontuário Eletrônico"
 ---
+
+## Entenda o fluxo de atendimento
+
+A equipe da recepção informará ao sistema assim que o paciente chegar na clínica. Neste momento o nome do mesmo aparecerá no item "Pendentes" do dashboard seguido da mensagem "não admitido".
+
+Assim que o fluxo burocrático da recepção for finalizado a mensagem "não admitido" será automaticamente excluída e você poderá iniciar seu atendimento.
+
+Clique no nome do paciente e em seguida em Iniciar Atendimento. O navegador será, então, redirecionado para o prontuário eletrônico.
+
+## Certificado Digital
+
+Caso seja seu primeiro atendimento do dia você será redirecionado após abertura do prontuário a tela de escolha e autenticação do Certificado Digital. A tela exibirá os certificados digitais online que você possui e também ofertará a opção de usar seu token ou arquivo pfx (certificado local). Escolha a opção mais apropriada.
+
+No momento suportamos os seguintes certificados: BirdID, Viddas, SafeID, NeoID e também certificados de cartão ou pfx. 
+
+## Evoluções e Documentos
+
+Os registros são divididos em 2 tipos: evoluções e documentos.
+
+* Evoluções são os registros gerados no atendimento do paciente (anamnese, descrição de procedimento realizado, dentre outros). Sua estrutura (perguntas que são feitas pelo formulário) pode ser personalizada livremente pela clínica. Você pode ainda criar modelos de preenchimento individuais para otimizar seu tempo.
+* Documentos são os produtos do atendimento (receituário, encaminhamento, atestado, orçamento, termo de consentimento, contrato, laudos de exames, dentre outros). A estrutura dos mesmos é fixa. Você pode  criar modelos de preenchimento individuais para otimizar seu tempo.
+
+### Evolução
+
+A tela de evoluções mostra a lista com todas as evoluções registradas no sistema em ordem decrescente da data de criação do registro.
+
+Você pode ver o conteúdo individual de uma evolução clicando no título da mesma.
+
+#### Criar Evolução
+* Clique em "+ Novo Registro" e escolha o formulário de evolução desejado.
+
+* Será exibido o formulário editável solicitado (caso a conexão esteja instável pode ser necessário atualizar a página).
+
+* Você poderá copiar os dados da última evolução do tipo OU inserir um modelo de preenchimento clicando no botão "Modelos e Cópia".
+
+* Caso queira salvar o documento que você preencheu como modelo, clique em "Salvar como Modelo".
+
+* Após terminar a evolução você deve clicar em "Finalizar e Assinar".
+
+* Caso tenha ocorrido algum erro no preenchimento do formulário após a assinatura você deve criar um outro registro e inativar o incorreto.
+
+#### Gerenciar Modelos de Preenchimento de Evolução
+
+TODO
+
+### Documentos do Atendimento
+
+#### Tipos de Documento
+Você pode criar os seguintes tipos de documento:
 
