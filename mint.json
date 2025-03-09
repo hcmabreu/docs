@@ -39,8 +39,7 @@
       "group": "Profissional de Saúde",
       "pages": [
         "saude/dashboard",
-        "saude/prontuario",
-        "saude/assinatura-digital"
+        "saude/prontuario"
       ]
     }
   ],
