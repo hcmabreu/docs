@@ -31,7 +31,7 @@
     {
       "group": "Básico",
       "pages": [
-        "acesso/introduction",
+        "introduction",
         "acesso/primeiro-acesso",
         "acesso/esqueci-minha-senha"
       ]
